@@ -1,7 +1,7 @@
 # Changelog
 
 <details>
-<summary>0.1.0</summary>
+<summary>1.0.0</summary>
     
 >August 1, 2023
 
